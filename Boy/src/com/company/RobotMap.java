@@ -32,9 +32,9 @@ public class RobotMap
     // public static int rangefinderModule = 1;
 
     public static int
-    DriveRight1 = 2,
+    DriveRight1 = 11,
     DriveRight2 = 14,
-    DriveLeft1 = 11,
+    DriveLeft1 = 2,
     DriveLeft2 = 12,
     Elevator = 4,
     IntakeRight = 0,
